@@ -1,6 +1,7 @@
 # Java Academy application
 
-The program consumes one string as an argument, counts the number of each letter in the string and presents the results to the console.
+The program consumes one string as an argument, counts the number
+of each letter in the string, sorts them and presents the results to the console.
 
 
 # How to install and run
