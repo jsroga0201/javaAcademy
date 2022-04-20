@@ -20,6 +20,8 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
+                    <outputDirectory>${project.basedir}/release</outputDirectory>
+                    <finalName>MyApp</finalName>
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
